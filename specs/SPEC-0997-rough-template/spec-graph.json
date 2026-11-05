@@ -1,0 +1,218 @@
+{
+  "edges": [
+    {
+      "from": "292c06bf3774e684",
+      "kind": "hierarchy",
+      "to": "7481d06c61c916c5"
+    },
+    {
+      "from": "35aec235fdbd69c2",
+      "kind": "hierarchy",
+      "to": "503bec5548e60f1e"
+    },
+    {
+      "from": "4c0752085111e242",
+      "kind": "hierarchy",
+      "to": "805a933da7935810"
+    },
+    {
+      "from": "4c0752085111e242",
+      "kind": "hierarchy",
+      "to": "a68a95b3f212534e"
+    },
+    {
+      "from": "4c0752085111e242",
+      "kind": "hierarchy",
+      "to": "c130a4d74ee94e29"
+    },
+    {
+      "from": "4c0752085111e242",
+      "kind": "hierarchy",
+      "to": "db636c6d491ad7ee"
+    },
+    {
+      "from": "552abb211d27a4f7",
+      "kind": "hierarchy",
+      "to": "7fe21e8cc6b1435c"
+    },
+    {
+      "from": "7481d06c61c916c5",
+      "kind": "file-link",
+      "to": "file:SPEC-0997:./assets/missing-mock.png"
+    },
+    {
+      "from": "7fe21e8cc6b1435c",
+      "kind": "hierarchy",
+      "to": "050a759f751a9a2e"
+    },
+    {
+      "from": "7fe21e8cc6b1435c",
+      "kind": "hierarchy",
+      "to": "46fa15f35d32821e"
+    },
+    {
+      "from": "7fe21e8cc6b1435c",
+      "kind": "hierarchy",
+      "to": "c22888d7c46fe256"
+    },
+    {
+      "from": "c6d02c83e4fd8d2c",
+      "kind": "hierarchy",
+      "to": "6402140db789e9e3"
+    },
+    {
+      "from": "ebcffb4986e22e27",
+      "kind": "hierarchy",
+      "to": "292c06bf3774e684"
+    },
+    {
+      "from": "ebcffb4986e22e27",
+      "kind": "hierarchy",
+      "to": "4c0752085111e242"
+    },
+    {
+      "from": "fdc0450a978fb1f8",
+      "kind": "hierarchy",
+      "to": "6c6d10e5a5ad80a5"
+    }
+  ],
+  "nodes": [
+    {
+      "address": "3.1.1",
+      "id": "050a759f751a9a2e",
+      "kind": "block",
+      "label": "Template differences are shown as information, not"
+    },
+    {
+      "address": "2.1",
+      "id": "292c06bf3774e684",
+      "kind": "block",
+      "label": "2.1 Visuals"
+    },
+    {
+      "address": "1",
+      "id": "35aec235fdbd69c2",
+      "kind": "block",
+      "label": "1. Problem Statement"
+    },
+    {
+      "id": "35d28eb28a0170f3",
+      "kind": "block",
+      "label": "Rough template"
+    },
+    {
+      "address": "3.1.2",
+      "id": "46fa15f35d32821e",
+      "kind": "block",
+      "label": "Broken refs stay errors."
+    },
+    {
+      "address": "2.2",
+      "id": "4c0752085111e242",
+      "kind": "block",
+      "label": "2.2 Hierarchy"
+    },
+    {
+      "address": "1",
+      "id": "503bec5548e60f1e",
+      "kind": "block",
+      "label": "This spec departs from the template on purpose, so"
+    },
+    {
+      "address": "3",
+      "id": "552abb211d27a4f7",
+      "kind": "block",
+      "label": "3. Requirements"
+    },
+    {
+      "address": "4",
+      "id": "6402140db789e9e3",
+      "kind": "block",
+      "label": "None."
+    },
+    {
+      "address": "5.1",
+      "id": "6c6d10e5a5ad80a5",
+      "kind": "block",
+      "label": "The structure check runs on this spec without cras"
+    },
+    {
+      "address": "2.1",
+      "id": "7481d06c61c916c5",
+      "kind": "block",
+      "label": "The embedded image below used to be inline. The ap"
+    },
+    {
+      "address": "3.1",
+      "id": "7fe21e8cc6b1435c",
+      "kind": "block",
+      "label": "3.1 Behaviour"
+    },
+    {
+      "address": "2.2.1",
+      "id": "805a933da7935810",
+      "kind": "block",
+      "label": "An item under an H4 is still addressable."
+    },
+    {
+      "id": "8f796df105a443a7",
+      "kind": "block",
+      "label": "Rough template"
+    },
+    {
+      "address": "2.2.2",
+      "id": "a68a95b3f212534e",
+      "kind": "block",
+      "label": "The parser falls back to numbering list items posi"
+    },
+    {
+      "address": "2.2",
+      "id": "c130a4d74ee94e29",
+      "kind": "block",
+      "label": "An H4 lives here. The template says headings stop "
+    },
+    {
+      "address": "3.1.3",
+      "id": "c22888d7c46fe256",
+      "kind": "block",
+      "label": "Broken file links stay errors."
+    },
+    {
+      "address": "4",
+      "id": "c6d02c83e4fd8d2c",
+      "kind": "block",
+      "label": "4. Open Questions"
+    },
+    {
+      "address": "2.2",
+      "id": "db636c6d491ad7ee",
+      "kind": "block",
+      "label": "2.2.1 Deep heading"
+    },
+    {
+      "address": "2",
+      "id": "ebcffb4986e22e27",
+      "kind": "block",
+      "label": "2. Background & Context"
+    },
+    {
+      "id": "f8a831f88f3b1f61",
+      "kind": "block",
+      "label": "Table of Contents"
+    },
+    {
+      "address": "5",
+      "id": "fdc0450a978fb1f8",
+      "kind": "block",
+      "label": "5. Non-Functional Requirements"
+    },
+    {
+      "address": "./assets/missing-mock.png",
+      "id": "file:SPEC-0997:./assets/missing-mock.png",
+      "kind": "reference-file",
+      "label": "./assets/missing-mock.png"
+    }
+  ],
+  "specId": "SPEC-0997",
+  "version": 1
+}

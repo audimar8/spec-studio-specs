@@ -1,0 +1,10 @@
+modules:
+  - name: Accounting
+    owner: Austin
+    description: Invoice capture, export, and reconciliation.
+  - name: Billing
+    owner: Austin
+    description: Subscription plans, usage and invoicing cadence.
+  - name: Platform
+    owner: Dana
+    description: Infra, auth, SDKs. Cross-cutting.

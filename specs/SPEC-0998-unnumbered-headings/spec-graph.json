@@ -1,0 +1,235 @@
+{
+  "edges": [
+    {
+      "from": "1f34c46ed0da8561",
+      "kind": "hierarchy",
+      "to": "55a617797db2344d"
+    },
+    {
+      "from": "1f34c46ed0da8561",
+      "kind": "hierarchy",
+      "to": "c6024cb2e54ddd9e"
+    },
+    {
+      "from": "2ff0295d9f04016d",
+      "kind": "hierarchy",
+      "to": "1f34c46ed0da8561"
+    },
+    {
+      "from": "2ff0295d9f04016d",
+      "kind": "hierarchy",
+      "to": "c36f398d14e241f8"
+    },
+    {
+      "from": "4eb25e7d3c2b5ed2",
+      "kind": "hierarchy",
+      "to": "5d2b52d38d6ef3cd"
+    },
+    {
+      "from": "4eb25e7d3c2b5ed2",
+      "kind": "hierarchy",
+      "to": "85e9d0f8af3e671e"
+    },
+    {
+      "from": "5407e5e4b2917811",
+      "kind": "hierarchy",
+      "to": "71e95c2c8fbfd029"
+    },
+    {
+      "from": "684ab1c3c9ea4944",
+      "kind": "hierarchy",
+      "to": "83979dd24043e449"
+    },
+    {
+      "from": "8658740ab2ed9454",
+      "kind": "hierarchy",
+      "to": "c95a2ebe9caf63f6"
+    },
+    {
+      "from": "98cb20a9debce624",
+      "kind": "hierarchy",
+      "to": "57cbe5a29d1de22c"
+    },
+    {
+      "from": "add6bc0be1ebe5cd",
+      "kind": "hierarchy",
+      "to": "9d73634d9ae28228"
+    },
+    {
+      "from": "add6bc0be1ebe5cd",
+      "kind": "hierarchy",
+      "to": "bfc23918aec75bf4"
+    },
+    {
+      "from": "c36f398d14e241f8",
+      "kind": "hierarchy",
+      "to": "296f87f0d9889121"
+    },
+    {
+      "from": "c36f398d14e241f8",
+      "kind": "hierarchy",
+      "to": "2f8fbb1b07f13f1d"
+    },
+    {
+      "from": "c8f3978859468989",
+      "kind": "hierarchy",
+      "to": "4eb25e7d3c2b5ed2"
+    },
+    {
+      "from": "c8f3978859468989",
+      "kind": "hierarchy",
+      "to": "5407e5e4b2917811"
+    },
+    {
+      "from": "c8f3978859468989",
+      "kind": "hierarchy",
+      "to": "add6bc0be1ebe5cd"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "0b53a405ffbec1b6",
+      "kind": "block",
+      "label": "Unnumbered headings"
+    },
+    {
+      "address": "3.1",
+      "id": "1f34c46ed0da8561",
+      "kind": "block",
+      "label": "Positional addressing"
+    },
+    {
+      "address": "3.2.2",
+      "id": "296f87f0d9889121",
+      "kind": "block",
+      "label": "Writing  to an unnumbered spec works the same as a"
+    },
+    {
+      "address": "3.2.1",
+      "id": "2f8fbb1b07f13f1d",
+      "kind": "block",
+      "label": "resolves to this block in the Spec Studio parser."
+    },
+    {
+      "address": "3",
+      "id": "2ff0295d9f04016d",
+      "kind": "block",
+      "label": "Requirements"
+    },
+    {
+      "address": "2.2",
+      "id": "4eb25e7d3c2b5ed2",
+      "kind": "block",
+      "label": "Key Constraints"
+    },
+    {
+      "address": "2.3",
+      "id": "5407e5e4b2917811",
+      "kind": "block",
+      "label": "Out of Scope"
+    },
+    {
+      "address": "3.1.1",
+      "id": "55a617797db2344d",
+      "kind": "block",
+      "label": "Every block has an address derived from its positi"
+    },
+    {
+      "address": "5.1",
+      "id": "57cbe5a29d1de22c",
+      "kind": "block",
+      "label": "Rendering an unnumbered spec is as fast as renderi"
+    },
+    {
+      "address": "2.2.1",
+      "id": "5d2b52d38d6ef3cd",
+      "kind": "block",
+      "label": "Positional addresses are computed from the hierarc"
+    },
+    {
+      "address": "4",
+      "id": "684ab1c3c9ea4944",
+      "kind": "block",
+      "label": "Open Questions"
+    },
+    {
+      "address": "2.3.1",
+      "id": "71e95c2c8fbfd029",
+      "kind": "block",
+      "label": "Rewriting an unnumbered spec to be numbered. That "
+    },
+    {
+      "address": "4",
+      "id": "83979dd24043e449",
+      "kind": "block",
+      "label": "None yet."
+    },
+    {
+      "address": "2.2.2",
+      "id": "85e9d0f8af3e671e",
+      "kind": "block",
+      "label": "The written number is kept when present, and only "
+    },
+    {
+      "address": "1",
+      "id": "8658740ab2ed9454",
+      "kind": "block",
+      "label": "Problem Statement"
+    },
+    {
+      "address": "5",
+      "id": "98cb20a9debce624",
+      "kind": "block",
+      "label": "Non-Functional Requirements"
+    },
+    {
+      "address": "2.1.1",
+      "id": "9d73634d9ae28228",
+      "kind": "block",
+      "label": "Team conventions page."
+    },
+    {
+      "address": "2.1",
+      "id": "add6bc0be1ebe5cd",
+      "kind": "block",
+      "label": "References"
+    },
+    {
+      "id": "b6ff3be99840635b",
+      "kind": "block",
+      "label": "Unnumbered headings"
+    },
+    {
+      "address": "2.1.2",
+      "id": "bfc23918aec75bf4",
+      "kind": "block",
+      "label": "The Spec Studio design brief."
+    },
+    {
+      "address": "3.2",
+      "id": "c36f398d14e241f8",
+      "kind": "block",
+      "label": "Reference writing"
+    },
+    {
+      "address": "3.1.2",
+      "id": "c6024cb2e54ddd9e",
+      "kind": "block",
+      "label": "The address shows in the gutter so a PM knows what"
+    },
+    {
+      "address": "2",
+      "id": "c8f3978859468989",
+      "kind": "block",
+      "label": "Background & Context"
+    },
+    {
+      "address": "1",
+      "id": "c95a2ebe9caf63f6",
+      "kind": "block",
+      "label": "Some PMs write their specs without numbering the h"
+    }
+  ],
+  "specId": "SPEC-0998",
+  "version": 1
+}

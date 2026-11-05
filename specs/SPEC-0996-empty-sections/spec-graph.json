@@ -1,0 +1,17 @@
+{
+  "edges": [],
+  "nodes": [
+    {
+      "id": "ae866f19ab50b7e1",
+      "kind": "block",
+      "label": "Minimal spec"
+    },
+    {
+      "id": "cdc11ea7d46ee8fb",
+      "kind": "block",
+      "label": "Minimal spec"
+    }
+  ],
+  "specId": "SPEC-0996",
+  "version": 1
+}

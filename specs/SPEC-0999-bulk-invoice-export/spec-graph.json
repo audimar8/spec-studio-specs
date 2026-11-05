@@ -1,0 +1,702 @@
+{
+  "edges": [
+    {
+      "from": "0dfe5ec6863adcb7",
+      "kind": "file-link",
+      "to": "file:SPEC-0999:api-contract.md"
+    },
+    {
+      "from": "0f771a2e9178a23c",
+      "kind": "hierarchy",
+      "to": "4f1cfc422f2a0d54"
+    },
+    {
+      "from": "0f771a2e9178a23c",
+      "kind": "hierarchy",
+      "to": "85ac70a5f7e17b94"
+    },
+    {
+      "from": "0f771a2e9178a23c",
+      "kind": "file-link",
+      "to": "file:SPEC-0999:api-contract.md"
+    },
+    {
+      "from": "11b3e373e9efc3f7",
+      "kind": "hierarchy",
+      "to": "7e86eb4046d69d7e"
+    },
+    {
+      "from": "1db2963b6d9240c8",
+      "kind": "hierarchy",
+      "to": "692901450fb2e16c"
+    },
+    {
+      "from": "1db2963b6d9240c8",
+      "kind": "hierarchy",
+      "to": "766096ff495358ff"
+    },
+    {
+      "from": "1db2963b6d9240c8",
+      "kind": "hierarchy",
+      "to": "ca2fef7d4a6983c3"
+    },
+    {
+      "from": "293dbb7230f1a0a9",
+      "kind": "hierarchy",
+      "to": "0575ff41987caa5b"
+    },
+    {
+      "from": "293dbb7230f1a0a9",
+      "kind": "hierarchy",
+      "to": "2e1095a981d9bc70"
+    },
+    {
+      "from": "293dbb7230f1a0a9",
+      "kind": "hierarchy",
+      "to": "6a5b527df90dc2a8"
+    },
+    {
+      "from": "2e1095a981d9bc70",
+      "kind": "ref-block",
+      "to": "b6fd1bde69737442"
+    },
+    {
+      "from": "331196c31e63939e",
+      "kind": "hierarchy",
+      "to": "1db2963b6d9240c8"
+    },
+    {
+      "from": "331196c31e63939e",
+      "kind": "hierarchy",
+      "to": "98bd228d7f3a061a"
+    },
+    {
+      "from": "331196c31e63939e",
+      "kind": "hierarchy",
+      "to": "c200d1c526d71d0f"
+    },
+    {
+      "from": "331196c31e63939e",
+      "kind": "hierarchy",
+      "to": "d1917ddce8bd23e2"
+    },
+    {
+      "from": "33d525af940e2fbe",
+      "kind": "hierarchy",
+      "to": "3277def7e5968cf2"
+    },
+    {
+      "from": "33d525af940e2fbe",
+      "kind": "hierarchy",
+      "to": "362c08015a26786c"
+    },
+    {
+      "from": "33d525af940e2fbe",
+      "kind": "hierarchy",
+      "to": "81b948a38dbbb770"
+    },
+    {
+      "from": "33d525af940e2fbe",
+      "kind": "hierarchy",
+      "to": "b0a7d989a118a104"
+    },
+    {
+      "from": "33d525af940e2fbe",
+      "kind": "hierarchy",
+      "to": "cf80a8fd10f345b7"
+    },
+    {
+      "from": "362c08015a26786c",
+      "kind": "hierarchy",
+      "to": "2442441f2057db9c"
+    },
+    {
+      "from": "362c08015a26786c",
+      "kind": "hierarchy",
+      "to": "4e21ddb9db46d77b"
+    },
+    {
+      "from": "362c08015a26786c",
+      "kind": "hierarchy",
+      "to": "ab0e4275199409d2"
+    },
+    {
+      "from": "3d07be002ee20381",
+      "kind": "ref-block",
+      "to": "0dce02bc35e69c03"
+    },
+    {
+      "from": "4e21ddb9db46d77b",
+      "kind": "ref-block",
+      "to": "0c5cf5378c44607b"
+    },
+    {
+      "from": "6a5b527df90dc2a8",
+      "kind": "hierarchy",
+      "to": "277001fb428d7137"
+    },
+    {
+      "from": "766096ff495358ff",
+      "kind": "hierarchy",
+      "to": "642fd452f0a6b64c"
+    },
+    {
+      "from": "766096ff495358ff",
+      "kind": "hierarchy",
+      "to": "8dd474b55d6e7048"
+    },
+    {
+      "from": "81b948a38dbbb770",
+      "kind": "hierarchy",
+      "to": "9e44db764361eb24"
+    },
+    {
+      "from": "81b948a38dbbb770",
+      "kind": "hierarchy",
+      "to": "df9a4fbe72cad2b2"
+    },
+    {
+      "from": "81b948a38dbbb770",
+      "kind": "hierarchy",
+      "to": "f347e4d75491ebd6"
+    },
+    {
+      "from": "8508600465acb247",
+      "kind": "file-link",
+      "to": "file:SPEC-0999:assets/export-dialog.svg"
+    },
+    {
+      "from": "862aad96f6f61583",
+      "kind": "file-link",
+      "to": "file:SPEC-0999:api-contract.md"
+    },
+    {
+      "from": "98bd228d7f3a061a",
+      "kind": "hierarchy",
+      "to": "0f771a2e9178a23c"
+    },
+    {
+      "from": "98bd228d7f3a061a",
+      "kind": "hierarchy",
+      "to": "2d6a7fb2f9321dd4"
+    },
+    {
+      "from": "98bd228d7f3a061a",
+      "kind": "hierarchy",
+      "to": "8508600465acb247"
+    },
+    {
+      "from": "98bd228d7f3a061a",
+      "kind": "hierarchy",
+      "to": "d8d1c80558152cfd"
+    },
+    {
+      "from": "9e44db764361eb24",
+      "kind": "ref-block",
+      "to": "f48a4fcf31b7ac0a"
+    },
+    {
+      "from": "b0a7d989a118a104",
+      "kind": "hierarchy",
+      "to": "0f44dba18b99f65c"
+    },
+    {
+      "from": "b0a7d989a118a104",
+      "kind": "hierarchy",
+      "to": "153b848d3c80bb16"
+    },
+    {
+      "from": "b0a7d989a118a104",
+      "kind": "hierarchy",
+      "to": "b6fd1bde69737442"
+    },
+    {
+      "from": "b0a7d989a118a104",
+      "kind": "hierarchy",
+      "to": "fb3f0c89a9c4cc9f"
+    },
+    {
+      "from": "b6fd1bde69737442",
+      "kind": "ref-block",
+      "to": "2e1095a981d9bc70"
+    },
+    {
+      "from": "c200d1c526d71d0f",
+      "kind": "hierarchy",
+      "to": "0c5cf5378c44607b"
+    },
+    {
+      "from": "c200d1c526d71d0f",
+      "kind": "hierarchy",
+      "to": "0dce02bc35e69c03"
+    },
+    {
+      "from": "c200d1c526d71d0f",
+      "kind": "hierarchy",
+      "to": "6f4aca22e261b94b"
+    },
+    {
+      "from": "c200d1c526d71d0f",
+      "kind": "hierarchy",
+      "to": "8185c5ee0cb98930"
+    },
+    {
+      "from": "cf80a8fd10f345b7",
+      "kind": "hierarchy",
+      "to": "862aad96f6f61583"
+    },
+    {
+      "from": "cf80a8fd10f345b7",
+      "kind": "hierarchy",
+      "to": "cfcb586403f718a0"
+    },
+    {
+      "from": "cf80a8fd10f345b7",
+      "kind": "hierarchy",
+      "to": "e4063843c4ee1dc3"
+    },
+    {
+      "from": "cfcb586403f718a0",
+      "kind": "file-link",
+      "to": "file:SPEC-0999:assets/export-dialog.svg"
+    },
+    {
+      "from": "d0345da141a74419",
+      "kind": "hierarchy",
+      "to": "006e84a28485ce9e"
+    },
+    {
+      "from": "d0345da141a74419",
+      "kind": "hierarchy",
+      "to": "3d07be002ee20381"
+    },
+    {
+      "from": "d0345da141a74419",
+      "kind": "hierarchy",
+      "to": "8dcee8813f22589a"
+    },
+    {
+      "from": "d0345da141a74419",
+      "kind": "hierarchy",
+      "to": "c843251b4e0d8eb5"
+    },
+    {
+      "from": "d0345da141a74419",
+      "kind": "hierarchy",
+      "to": "f48a4fcf31b7ac0a"
+    },
+    {
+      "from": "d1917ddce8bd23e2",
+      "kind": "hierarchy",
+      "to": "0dfe5ec6863adcb7"
+    },
+    {
+      "from": "d1917ddce8bd23e2",
+      "kind": "hierarchy",
+      "to": "416bbb69f46af2a7"
+    },
+    {
+      "from": "d1917ddce8bd23e2",
+      "kind": "hierarchy",
+      "to": "d248dff39b911b50"
+    },
+    {
+      "from": "d1917ddce8bd23e2",
+      "kind": "hierarchy",
+      "to": "e29c95a313554803"
+    },
+    {
+      "from": "d8d1c80558152cfd",
+      "kind": "ref-block",
+      "to": "6a5b527df90dc2a8"
+    },
+    {
+      "from": "df9a4fbe72cad2b2",
+      "kind": "ref-block",
+      "to": "0f771a2e9178a23c"
+    },
+    {
+      "from": "e29c95a313554803",
+      "kind": "ref-block",
+      "to": "d248dff39b911b50"
+    },
+    {
+      "from": "e4063843c4ee1dc3",
+      "kind": "file-link",
+      "to": "file:SPEC-0999:interview-notes.md"
+    }
+  ],
+  "nodes": [
+    {
+      "address": "5.3",
+      "id": "006e84a28485ce9e",
+      "kind": "block",
+      "label": "A single export is capped at 10,000 invoices. Abov"
+    },
+    {
+      "address": "4.1",
+      "id": "0575ff41987caa5b",
+      "kind": "block",
+      "label": "Should the CSV include a separate payments file, o"
+    },
+    {
+      "address": "3.3.1",
+      "id": "0c5cf5378c44607b",
+      "kind": "block",
+      "label": "Exports of up to 200 invoices download directly fr"
+    },
+    {
+      "address": "3.3.2",
+      "id": "0dce02bc35e69c03",
+      "kind": "block",
+      "label": "Download links expire after 7 days. An \"Exports\" p"
+    },
+    {
+      "address": "3.4.1",
+      "id": "0dfe5ec6863adcb7",
+      "kind": "block",
+      "label": "takes the filters and format and returns an export"
+    },
+    {
+      "address": "2.4.4",
+      "id": "0f44dba18b99f65c",
+      "kind": "block",
+      "label": "Credit notes and quotes. Invoices only."
+    },
+    {
+      "address": "3.2.2",
+      "id": "0f771a2e9178a23c",
+      "kind": "block",
+      "label": "The CSV has one line-item row per invoice line. Co"
+    },
+    {
+      "address": "1",
+      "id": "11b3e373e9efc3f7",
+      "kind": "block",
+      "label": "1. Problem Statement"
+    },
+    {
+      "address": "2.4.1",
+      "id": "153b848d3c80bb16",
+      "kind": "block",
+      "label": "XLSX or other spreadsheet formats. CSV opens in ev"
+    },
+    {
+      "address": "3.1",
+      "id": "1db2963b6d9240c8",
+      "kind": "block",
+      "label": "3.1 Selecting Invoices"
+    },
+    {
+      "address": "2.3.3",
+      "id": "2442441f2057db9c",
+      "kind": "block",
+      "label": "Line-item row:"
+    },
+    {
+      "address": "4.3.1",
+      "id": "277001fb428d7137",
+      "kind": "block",
+      "label": "Answer: No, keep one flat folder. Auditors in inte"
+    },
+    {
+      "address": "4",
+      "id": "293dbb7230f1a0a9",
+      "kind": "block",
+      "label": "4. Open Questions"
+    },
+    {
+      "address": "3.2.1",
+      "id": "2d6a7fb2f9321dd4",
+      "kind": "block",
+      "label": "The admin chooses one of three formats: CSV, PDF ("
+    },
+    {
+      "address": "4.2",
+      "id": "2e1095a981d9bc70",
+      "kind": "block",
+      "label": "How many design partners want scheduled exports en"
+    },
+    {
+      "address": "2",
+      "id": "3277def7e5968cf2",
+      "kind": "block",
+      "label": "Bulk export is the top-voted request on the feedba"
+    },
+    {
+      "address": "3",
+      "id": "331196c31e63939e",
+      "kind": "block",
+      "label": "3. Requirements"
+    },
+    {
+      "address": "2",
+      "id": "33d525af940e2fbe",
+      "kind": "block",
+      "label": "2. Background & Context"
+    },
+    {
+      "address": "2.3",
+      "id": "362c08015a26786c",
+      "kind": "block",
+      "label": "2.3 Key Concepts"
+    },
+    {
+      "address": "5.5",
+      "id": "3d07be002ee20381",
+      "kind": "block",
+      "label": "Export files are stored encrypted and deleted when"
+    },
+    {
+      "address": "3.4",
+      "id": "416bbb69f46af2a7",
+      "kind": "block",
+      "label": "As a developer at a customer, I want to start and "
+    },
+    {
+      "address": "2.3.2",
+      "id": "4e21ddb9db46d77b",
+      "kind": "block",
+      "label": "Direct download:"
+    },
+    {
+      "address": "3.2.2.2",
+      "id": "4f1cfc422f2a0d54",
+      "kind": "block",
+      "label": "Files are UTF-8 with a byte order mark so Excel op"
+    },
+    {
+      "address": "3.1.1.1",
+      "id": "642fd452f0a6b64c",
+      "kind": "block",
+      "label": "Supported filters are the existing ones: date rang"
+    },
+    {
+      "address": "3.1.2",
+      "id": "692901450fb2e16c",
+      "kind": "block",
+      "label": "Admins can also select individual rows and export "
+    },
+    {
+      "address": "4.3",
+      "id": "6a5b527df90dc2a8",
+      "kind": "block",
+      "label": "Should PDFs in the ZIP be grouped into folders by "
+    },
+    {
+      "address": "3.3",
+      "id": "6f4aca22e261b94b",
+      "kind": "block",
+      "label": "As a finance admin, I want large exports to finish"
+    },
+    {
+      "address": "3.1.1",
+      "id": "766096ff495358ff",
+      "kind": "block",
+      "label": "The Invoices list gets an \"Export\" action that exp"
+    },
+    {
+      "address": "1",
+      "id": "7e86eb4046d69d7e",
+      "kind": "block",
+      "label": "Finance admins close their books every month by pu"
+    },
+    {
+      "address": "3.3.3",
+      "id": "8185c5ee0cb98930",
+      "kind": "block",
+      "label": "If a job fails, the Exports panel shows \"Failed\" w"
+    },
+    {
+      "address": "2.2",
+      "id": "81b948a38dbbb770",
+      "kind": "block",
+      "label": "2.2 Key Constraints"
+    },
+    {
+      "address": "3.2",
+      "id": "8508600465acb247",
+      "kind": "block",
+      "label": "As a finance admin, I want to choose the file form"
+    },
+    {
+      "id": "851a2e9509bf447d",
+      "kind": "block",
+      "label": "Table of Contents"
+    },
+    {
+      "address": "3.2.2.1",
+      "id": "85ac70a5f7e17b94",
+      "kind": "block",
+      "label": "Amounts use a dot decimal separator and no thousan"
+    },
+    {
+      "address": "2.1.2",
+      "id": "862aad96f6f61583",
+      "kind": "block",
+      "label": "API contract: endpoints, job states, and CSV colum"
+    },
+    {
+      "id": "8919232b128b227c",
+      "kind": "block",
+      "label": "Bulk invoice export"
+    },
+    {
+      "address": "5.4",
+      "id": "8dcee8813f22589a",
+      "kind": "block",
+      "label": "Only users with the  permission can export. Every "
+    },
+    {
+      "address": "3.1.1.2",
+      "id": "8dd474b55d6e7048",
+      "kind": "block",
+      "label": "The dialog shows the matching invoice count before"
+    },
+    {
+      "address": "3.2",
+      "id": "98bd228d7f3a061a",
+      "kind": "block",
+      "label": "3.2 Export Formats"
+    },
+    {
+      "address": "2.2.3",
+      "id": "9e44db764361eb24",
+      "kind": "block",
+      "label": "Single-invoice downloads share that renderer, so b"
+    },
+    {
+      "address": "2.3.1",
+      "id": "ab0e4275199409d2",
+      "kind": "block",
+      "label": "Export job:"
+    },
+    {
+      "address": "2.4",
+      "id": "b0a7d989a118a104",
+      "kind": "block",
+      "label": "2.4 Out of Scope"
+    },
+    {
+      "address": "2.4.3",
+      "id": "b6fd1bde69737442",
+      "kind": "block",
+      "label": "Scheduled or recurring exports. Admins start each "
+    },
+    {
+      "address": "3.3",
+      "id": "c200d1c526d71d0f",
+      "kind": "block",
+      "label": "3.3 Delivery"
+    },
+    {
+      "address": "5.2",
+      "id": "c843251b4e0d8eb5",
+      "kind": "block",
+      "label": "A 5,000-invoice CSV-and-PDF export completes in un"
+    },
+    {
+      "address": "3.1",
+      "id": "ca2fef7d4a6983c3",
+      "kind": "block",
+      "label": "As a finance admin, I want to export every invoice"
+    },
+    {
+      "address": "2.1",
+      "id": "cf80a8fd10f345b7",
+      "kind": "block",
+      "label": "2.1 References"
+    },
+    {
+      "address": "2.1.3",
+      "id": "cfcb586403f718a0",
+      "kind": "block",
+      "label": "Export dialog wireframe"
+    },
+    {
+      "address": "5",
+      "id": "d0345da141a74419",
+      "kind": "block",
+      "label": "5. Non-Functional Requirements"
+    },
+    {
+      "address": "3.4",
+      "id": "d1917ddce8bd23e2",
+      "kind": "block",
+      "label": "3.4 API"
+    },
+    {
+      "address": "3.4.2",
+      "id": "d248dff39b911b50",
+      "kind": "block",
+      "label": "returns job status and, when complete, a signed do"
+    },
+    {
+      "id": "d5a03832f6d3ec3b",
+      "kind": "block",
+      "label": "Bulk invoice export"
+    },
+    {
+      "address": "3.2.3",
+      "id": "d8d1c80558152cfd",
+      "kind": "block",
+      "label": "PDFs in the ZIP are named , in one flat folder (se"
+    },
+    {
+      "address": "2.2.1",
+      "id": "df9a4fbe72cad2b2",
+      "kind": "block",
+      "label": "ERP importers are strict about CSV columns, so the"
+    },
+    {
+      "address": "3.4.3",
+      "id": "e29c95a313554803",
+      "kind": "block",
+      "label": "An  webhook fires when a job completes or fails, w"
+    },
+    {
+      "address": "2.1.1",
+      "id": "e4063843c4ee1dc3",
+      "kind": "block",
+      "label": "Interview notes: 8 finance admin interviews, 2026-"
+    },
+    {
+      "address": "2.2.2",
+      "id": "f347e4d75491ebd6",
+      "kind": "block",
+      "label": "PDFs must come from the existing invoice renderer,"
+    },
+    {
+      "address": "5.1",
+      "id": "f48a4fcf31b7ac0a",
+      "kind": "block",
+      "label": "Export jobs run on a separate worker pool, so sing"
+    },
+    {
+      "address": "2.4.2",
+      "id": "fb3f0c89a9c4cc9f",
+      "kind": "block",
+      "label": "Direct sync to ERPs (NetSuite, QuickBooks, Xero). "
+    },
+    {
+      "address": "api-contract.md",
+      "id": "file:SPEC-0999:api-contract.md",
+      "kind": "reference-file",
+      "label": "api-contract.md"
+    },
+    {
+      "address": "assets/export-dialog.svg",
+      "id": "file:SPEC-0999:assets/export-dialog.svg",
+      "kind": "reference-file",
+      "label": "assets/export-dialog.svg"
+    },
+    {
+      "address": "interview-notes.md",
+      "id": "file:SPEC-0999:interview-notes.md",
+      "kind": "reference-file",
+      "label": "interview-notes.md"
+    }
+  ],
+  "specId": "SPEC-0999",
+  "version": 1
+}
