@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Shape of the treasury feed, one day of rates. -->
+<feed date="2026-11-04">
+  <source name="treasury" />
+  <rate currency="EUR">1.0842</rate>
+  <rate currency="GBP">1.2911</rate>
+  <note><![CDATA[Rates are mid-market <not> bid/ask.]]></note>
+</feed>

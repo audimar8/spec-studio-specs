@@ -1,0 +1,8 @@
+flowchart LR
+  %% The morning import, one run per day.
+  Fetch[Fetch the feed] --> Compare{Differs by more than 5%?}
+  Compare -->|yes| Hold[Hold for review]
+  Compare -->|no| Save[Save the rate]
+  Hold --> Save
+  classDef held fill:#fee
+  class Hold held

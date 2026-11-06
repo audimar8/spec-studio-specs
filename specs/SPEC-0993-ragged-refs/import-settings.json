@@ -1,0 +1,5 @@
+{
+  "schedule": "06:00",
+  "timezone": "UTC",
+  "holdThreshold": 0.05,
+  "currencies": ["EUR", "GBP",

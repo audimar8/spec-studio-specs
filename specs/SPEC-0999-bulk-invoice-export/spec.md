@@ -75,8 +75,9 @@ was named as a churn reason in 6 of the last 20 lost-account interviews.
 
 1. XLSX or other spreadsheet formats. CSV opens in every spreadsheet tool and is what ERP importers expect.
 2. Direct sync to ERPs (NetSuite, QuickBooks, Xero). That belongs to a separate integrations spec.
-3. Scheduled or recurring exports. Admins start each export by hand. See [[4.2]].
-4. Credit notes and quotes. Invoices only.
+3. **Test**
+4. Scheduled or recurring exports. Admins start each export by hand. See [[4.2]].
+5. Credit notes and quotes. Invoices only.
 
 ## 3. Requirements
 
@@ -88,7 +89,7 @@ so that I can pull a whole month, or only unpaid invoices, in one go.
 1. The Invoices list gets an "Export" action that exports every invoice matching the current filters, not only the visible page.
    1. Supported filters are the existing ones: date range, status, customer, currency.
    2. The dialog shows the matching invoice count before the admin confirms.
-2. Admins can also select individual rows and export only the selection.
+   3. Admins can also select individual rows and export only the selection.
 
 ### 3.2 Export Formats
 
@@ -124,7 +125,7 @@ the API so that I can automate month-end close.
 ## 4. Open Questions
 
 1. Should the CSV include a separate payments file, or keep payment status as columns on each row? _(owner: Priya, due: 2026-11-07)_
-2. How many design partners want scheduled exports enough to pull [[2.4.3]] into scope? _(owner: Austin, due: 2026-11-14)_
+2. How many design partners want scheduled exports enough to pull [[2.4.4]] into scope? _(owner: Austin, due: 2026-11-14)_
 3. Should PDFs in the ZIP be grouped into folders by customer? _(owner: Marcus, status: resolved)_
    1. Answer: No, keep one flat folder. Auditors in interviews preferred sorting by file name. Decided 2026-10-22.
 

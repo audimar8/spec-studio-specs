@@ -29,7 +29,7 @@ well under a second.
 
 ### 2.1 Sub-section 2.1
 
-This sub-section is one of many — it exists to grow the spec.
+This sub-section is one of many — it exists to grow the spec. New.
 
 1. **Item 2.1.1:** a repeated clause that gives the
    parser something nontrivial to walk, with one `[[1.1]]` ref
