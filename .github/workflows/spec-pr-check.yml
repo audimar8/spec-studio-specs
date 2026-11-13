@@ -1,0 +1,38 @@
+# Spec pull request checks (GIT-24). Copy to `.github/workflows/spec-pr-check.yml`
+# in the specs repo, beside the existing validator workflow. It runs the
+# validator and `scripts/check_spec_pr.py` on every pull request that touches
+# specs, and blocks the merge on a duplicate number, a bad id, or a pull
+# request that changes more than one spec folder.
+#
+# With branch protection on main requiring this check and one approval, and
+# "Allow auto-merge" on in the repo settings, Submit for review in Spec Studio
+# publishes a spec on approval (GIT-11).
+name: Spec pull request checks
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'specs/**'
+      - 'INDEX.md'
+      - 'scripts/**'
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml
+      - name: Validator
+        run: python scripts/validate_and_index.py
+      - name: One spec per pull request, unique numbers, matching ids
+        run: python scripts/check_spec_pr.py "origin/${{ github.base_ref }}" HEAD
