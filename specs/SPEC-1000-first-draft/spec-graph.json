@@ -551,7 +551,7 @@
       "kind": "block",
       "label": "First Draft",
       "order": 0,
-      "text": "--- id: DRAFT-4f9cfa title: First Draft status: draft owner: Dana modules: [Accounting] created: 2026-11-12 updated: 2026-11-12 superseded_by: null supersedes: null links: jira: [] repos: [] ---",
+      "text": "--- id: SPEC-1000 title: First Draft status: draft owner: Dana modules: [Accounting] created: 2026-11-12 updated: 2026-11-12 superseded_by: null supersedes: null links: jira: [] repos: [] ---",
       "textHash": "36e6ac420c22e644"
     },
     {

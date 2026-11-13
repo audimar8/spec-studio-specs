@@ -1,7 +1,7 @@
 ---
-id: DRAFT-4f9cfa
+id: SPEC-1000
 title: First Draft
-status: draft
+status: in-review
 owner: Dana
 modules: [Accounting]
 created: 2026-11-12
