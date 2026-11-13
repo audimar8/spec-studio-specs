@@ -262,7 +262,7 @@ def _parse(spec_path, resolve=True):
             if not p.exists():
                 err("R2", n, f"Link target missing: {target}")
     for p in folder.rglob("*"):
-        if p.is_file() and p.name not in ("spec.md", ".gitkeep") and p.resolve() not in linked:
+        if p.is_file() and p.name not in ("spec.md", ".gitkeep", "spec-graph.json", "open-questions.md") and p.resolve() not in linked:
             err("A1", 0, f"File not linked from spec.md: {p.relative_to(folder)}", "warn")
 
     today = datetime.date.today().isoformat()

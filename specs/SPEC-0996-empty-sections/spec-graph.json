@@ -6,13 +6,22 @@
   "edges": [],
   "nodes": [
     {
+      "blockKind": "paragraph",
+      "id": "18b83ff3a3a5578b",
+      "kind": "block",
+      "label": "No H2s. Just paragraph content under the H1. The app must still",
+      "order": 2,
+      "text": "No H2s. Just paragraph content under the H1. The app must still open, render and present this (14.21, PRE levels fallback). This file exists so Present's level model is tested on the",
+      "textHash": "25ec10ffca910292"
+    },
+    {
       "blockKind": "h1",
       "id": "ae866f19ab50b7e1",
       "kind": "block",
-      "label": "Minimal spec No H2s. Just paragraph content under the H1. The app",
+      "label": "Minimal spec",
       "order": 1,
-      "text": "Minimal spec No H2s. Just paragraph content under the H1. The app must still open, render and present this (14.21, PRE levels fallback). This file exists so Present's level model is tested",
-      "textHash": "47f430778fa91093"
+      "text": "Minimal spec",
+      "textHash": "7f8f93307f025c3c"
     },
     {
       "blockKind": "frontmatter",
