@@ -5,7 +5,7 @@
     "import-settings.json": "a871e60993d86965",
     "rate-sample.csv": "90b3cbeec1d39e08",
     "rollout-notes.md": "b2d6fa87fba429e4",
-    "spec.md": "c3448a3aa18e36c9",
+    "spec.md": "8a71b58fb7661df6",
     "treasury-feed.xml": "22bf34b5d9caffa7"
   },
   "edges": [
@@ -125,8 +125,8 @@
       "label": "A rate that differs from yesterday's by more than 5% is held",
       "order": 14,
       "parent": "51725e8f522bcb0a",
-      "text": "A rate that differs from yesterday's by more than 5% is held for review. See [[#]]. [Rate sample](rate-sample.csv)",
-      "textHash": "16abb4188149b010"
+      "text": "A rate that differs from yesterday's by more than 5% is held for review. See [[#]]. References: [Rate sample](rate-sample.csv)",
+      "textHash": "305cc5d88d12a5ce"
     },
     {
       "address": "2.1.1",
@@ -238,10 +238,10 @@
       "blockKind": "section",
       "id": "ba0fef91e2fdd737",
       "kind": "block",
-      "label": "Problem Statement",
+      "label": "Update Problem Statement",
       "order": 2,
-      "text": "Problem Statement",
-      "textHash": "d8c1451f9f397933"
+      "text": "Update Problem Statement",
+      "textHash": "c7691c88cd4de1f4"
     },
     {
       "address": "2",

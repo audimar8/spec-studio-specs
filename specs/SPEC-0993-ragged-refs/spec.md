@@ -15,7 +15,7 @@ links:
 
 # Exchange rate import
 
-## 1. Problem Statement
+## 1. Update Problem Statement
 
 Admins paste exchange rates by hand every morning. This spec imports them
 from the treasury feed instead. Its reference files are still being
@@ -36,4 +36,5 @@ written, so some of them don't parse yet (GRF-16).
 ### 3.1 Import
 
 1. Rates import every morning at 06:00 UTC from the treasury feed.
-2. A rate that differs from yesterday's by more than 5% is held for review. See [[3.1.1]]. [Rate sample](rate-sample.csv)
+2. A rate that differs from yesterday's by more than 5% is held for review. See [[3.1.1]].
+   References: [Rate sample](rate-sample.csv)
